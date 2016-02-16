@@ -4,7 +4,7 @@
 #include "ofxUI.h"
 
 //#define USE_MOVIE
-//#define USE_CAMERA 1
+// #define USE_CAMERA 1
 #define USE_DEBUGIMAGE 1
 
 
